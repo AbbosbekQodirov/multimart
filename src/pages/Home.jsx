@@ -66,7 +66,7 @@ function Home() {
           <Row>
             <Col lg="6" md="6">
               <div className="hero__content">
-                <p className="hero__subtitle">Trending product in {year}</p>
+                <p className="hero__subtitle">Trending  in {year}</p>
                 <h2>Make Your Interior More Minimalistic $ Modern</h2>
                 <p>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam
